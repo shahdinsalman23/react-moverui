@@ -108,9 +108,7 @@ Takes two numbers and returns the sum.
 ## Authors
 The application was authored through collaboration and collective effort by;
 
-- [Liz Wambeti](https://github.com/lizdmukami)
-- [Josiah Nganga]()
-- [Samuel Muthaiga]()
+- [Shahdin Salman](https://github.com/shahdinsalman23)
 
 
 ## Badges
