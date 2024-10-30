@@ -134,7 +134,7 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 
 This project has been successfully deployed on vercel and can be accessed via the link below ;
 
-- [Movers-ui](https://movers-oqbb632y4-spectr-e.vercel.app/)
+- [Movers-ui](https://react-moverui-shahdin.vercel.app/)
 ## Feedback
 
 If you have any feedback, please reach out to us at *****
